@@ -1,5 +1,7 @@
+Build
 _build
 \.svn/
-blib/
-Build
 \..*\.swp
+blib/
+Makefile
+pm_to_blib

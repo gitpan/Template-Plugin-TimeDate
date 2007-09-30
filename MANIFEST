@@ -1,8 +1,10 @@
+Build.PL
+Makefile.PL
 Changes
 MANIFEST
 MANIFEST.SKIP
 META.yml
-Build.PL
+README
 lib/Template/Plugin/TimeDate.pm
 t/timedate.t
 t/pod.t

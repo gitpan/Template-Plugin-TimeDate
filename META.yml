@@ -1,6 +1,6 @@
 ---
 name: Template-Plugin-TimeDate
-version: 1.00
+version: 1.01
 author:
   - Graham TerMarsch (cpan@howlingfrog.com)
 abstract: TT plugin to parse/format dates using TimeDate
@@ -10,10 +10,12 @@ resources:
 requires:
   Date::Parse: 0
   Template: 2
+build_requires:
+  Test::More: 0
 provides:
   Template::Plugin::TimeDate:
     file: lib/Template/Plugin/TimeDate.pm
-    version: 1.00
+    version: 1.01
 generated_by: Module::Build version 0.2805
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
