@@ -1,5 +1,8 @@
 Revision history for Perl extension Template::Plugin::TimeDate
 
+1.02    Fri Apr 23 22:16 PDT 2010
+    - Switch to Git
+
 1.01    Sun Sep 30 15:51 PDT 2007
     - added Makefile.PL for those not using Module::Build.
 
